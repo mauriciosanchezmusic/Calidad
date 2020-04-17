@@ -1,0 +1,39 @@
+
+Par a la cuestion de logica, podemos poner la parte de requerimento - descirpcion de gaus
+una descripcion smple d como seva  a hacer 
+
+
+otra opcion es hacer diagramas, de cajita de aasignacion ; 
+
+
+En la aprte de uml programing  
+
+esta el nomreb del archio
+depues lo parametrso
+y despue sla parte funcinoal
+es lo mismo que haciamos con ejorado pero sin tanto show  
+
+
+
+
+//me pafalta pregunta la parte de //.m i a b d 
+
+
+//.r 
+
+//.m 
+
+primero el operacional
+funccional
+logico 
+
+
+
+
+agarra una pila 
+
+
+-------
+
+el error que e podria sair es en la forma en la que estas metiendo el archivo 
+otro error quiza el else que tienes linea 107 main 

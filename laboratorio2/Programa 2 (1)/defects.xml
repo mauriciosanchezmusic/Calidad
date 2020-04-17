@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<defects>
+<defect path="/Non Project/PSP Training/Program 1" date="@1566849377700" num="1" type="Syntax" inj="Code" rem="Code" ft="0.3" fd="" desc=";&apos;s y gramatica&#10;"/>
+<defect path="/Non Project/PSP Training/Program 1" date="@1566849589501" num="2" type="Syntax" inj="Code" rem="Code" ft="7.6" fd="" desc="Errores de ; ()&apos;s y typos &#10;Y una burrada que no habia copiado bien el file .h a el folder correspondiente #wow. "/>
+<defect path="/Non Project/PSP Training/Program 1" date="@1566850486091" num="3" type="Function" inj="Design" rem="Code" ft="34.7" fd="" desc="Se estaba ciclando porque meti mal algo que queria comentar. El error persiste en un tipo de ciclo.  &#10;&#10;tenia ^(//s) envez de ^(.)* para cerrar el comentario. &#10;&#10;Ahora tiene problemas de conteo; &#10;El contador esta bien, en el main, pero derrepente me escupe numeros que nada que ver. &#10;&#10;tenia mal unos tipos en el set de Lineas.h"/>
+</defects>

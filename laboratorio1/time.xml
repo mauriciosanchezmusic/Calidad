@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<timeLogEntries>
+  <time id="11" path="/Non Project/PSP Training/Report/Planning" start="@1542011620122" delta="426" />
+  <time id="13" path="/Non Project/PSP Training/Program 1/Planning" start="@1566423522418" />
+  <time id="14" path="/Non Project/PSP Training/Program 1/Planning" start="@1566423450845" delta="7" />
+  <time id="15" path="/Non Project/PSP Training/Program 1/Design" start="@1566425154752" delta="1" />
+  <time id="16" path="/Non Project/PSP Training/Program 1/Code" start="@1566425156696" delta="6" />
+  <time id="17" path="/Non Project/PSP Training/Program 1/Code" start="@1566832285774" delta="8" interrupt="5" />
+  <time id="18" path="/Non Project/PSP Training/Program 1/Code" start="@1566833428302" delta="5" interrupt="4" />
+  <time id="19" path="/Non Project/PSP Training/Program 1/Code" start="@1566834095478" delta="2" />
+  <time id="20" path="/Non Project/PSP Training/Program 1/Code" start="@1566835652870" delta="3" interrupt="1" />
+  <time id="21" path="/Non Project/PSP Training/Program 1/Code" start="@1566838292742" delta="4" interrupt="2" />
+  <time id="22" path="/Non Project/PSP Training/Program 1/Code" start="@1566838953604" delta="3" />
+  <time id="23" path="/Non Project/PSP Training/Program 1/Code" start="@1566841102749" delta="4" interrupt="1" />
+  <time id="24" path="/Non Project/PSP Training/Program 1/Code" start="@1566841655738" delta="1" />
+  <time id="25" path="/Non Project/PSP Training/Program 1/Code" start="@1566848140214" delta="10" />
+  <time id="26" path="/Non Project/PSP Training/Program 1/Code" start="@1566849377217" delta="61" interrupt="1" />
+  <time id="27" path="/Non Project/PSP Training/Program 1/Test" start="@1566853115542" delta="4" />
+  <time id="28" path="/Non Project/PSP Training/Program 1/Postmortem" start="@1566853353441" delta="5" interrupt="59" />
+</timeLogEntries>

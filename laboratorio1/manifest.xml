@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+
+<archive type="dashboardDataExport">
+  <exported byOwner="Ivan Escalante" byUser="ivane_000" when="@1566857703939">
+    <fromDataset datasetID="b4b655e2-4d7e-4e19-bd3b-25f1a515d212" location="C:\Users\ivane_000\Desktop\school shit\Semestre  Agosto - Dic 2018\Calidad\Process Dashboard" />
+    <withPackage packageID="importPSP" version="1.3" />
+    <withPackage packageID="pspForEng" version="3.2" />
+    <withPackage packageID="pspProc" version="2.10" />
+    <withPackage packageID="processdash-extra" version="2.4.1" />
+    <withPackage packageID="dashHelpExt" version="1.0" />
+    <withPackage packageID="pdashRestApi" version="0.7" />
+    <withPackage packageID="dashHelp" version="2.0.5.1" />
+    <withPackage packageID="l10nTool" version="1.2" />
+    <withPackage packageID="pspdash" version="2.4.1" />
+  </exported>
+  <file name="data.xml" type="metrics" version="1" />
+  <file name="defects.xml" type="defects" version="1" />
+  <file name="time.xml" type="timeLog" version="1" />
+</archive>

@@ -1,9 +1,6 @@
-//Ivan Escalante
-//06/12 /19
+//Mauricio Sanchez
 /*
  Calcalcula Regresion Lineal,
-Correlacion, Significancia, Rangos de 70%
-
 */
 
 #include<iostream>
@@ -16,9 +13,7 @@ Correlacion, Significancia, Rangos de 70%
 #include<vector>
 #include<cmath>
 #include <iomanip>
-
 #include "Simpson.h"
-
 #include "Punto.h"
 
 using namespace std;
@@ -246,7 +241,7 @@ void range(){
 
 void imprimir(){
     //se va a cambiar la presision a 5 , no a 10
-cout<<setprecision(5)<<fixed; //andresHal me enseño esto
+cout<<setprecision(5)<<fixed; //andresHal me enseï¿½o esto
 //10 ceros      10000000000
 cout<<"n    = "<<n<<endl;
 cout<<"xk   = "<<round(xk*100000)/100000<<endl;
